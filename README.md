@@ -1,0 +1,2 @@
+# pokedex
+implement hexagon architecture
